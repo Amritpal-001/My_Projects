@@ -21,9 +21,12 @@ links to all my projects repo and code
 |  ChexBERT | [link](https://github.com/Amritpal-001/Paper_Implementations/blob/master/NLP/ChexBert.ipynb) | |
 | | | 
 
-|  Android applications| | | 
+|  Android and Web applications| | | 
 | :---         |     :---:      |          ---: | 
 |  Retinopathy detection using mobile camera  | Tensorflow AI models deployed on Kotlin based Android app|[link](https://github.com/Amritpal-001/Paper_Implementations/blob/master/Tranformers/Visual_transformer_quick_run.ipynb) |  
+|  Live Hand signs recognition in web app  | web app to identify live hhand signs|[link]() |
+|  MNIST_fashion - Draw and predict  | drawable pad that allows to detect MNIST  images|[link]() |
+|  Alphabet - Draw and predict  | drawable pad that allows to detect aplhabets, numbers|[link]() |  
 | | | 
 
 | AI Explainability | | | 
@@ -44,10 +47,10 @@ links to all my projects repo and code
 
 | Generative adverserial networks(GANS)| | | 
 | :---         |     :---:      |          ---: | 
-|  MNIST dataset generation   | -- | [link]() |
-| CIFAR-10 dataset generation | -- | [link]() |
-| Style transfer | -- | [link]() |
-|    Pix2Pix | -- | [link]() |
+|  MNIST dataset generation   | -- | [link](https://github.com/Amritpal-001/Generative-adversarial-networks-GANs) |
+| CIFAR-10 dataset generation | -- | [link](https://github.com/Amritpal-001/Generative-adversarial-networks-GANs) |
+| Style transfer | -- | [link](https://github.com/Amritpal-001/Generative-adversarial-networks-GANs) |
+|    Pix2Pix | -- | [link](https://github.com/Amritpal-001/Generative-adversarial-networks-GANs) |
 | | | 
 
 
