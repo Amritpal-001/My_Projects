@@ -16,10 +16,10 @@ links to all my projects repo and code
 | | | 
 
 | Natural language processing| | | 
-| :---         |     :---:      |          ---: | 
-|  BERT | paper  | link |summary |
-|  BioBERT  | link |summary |
-|  ChexBERT | [link](https://github.com/Amritpal-001/Paper_Implementations/blob/master/NLP/ChexBert.ipynb) | |
+| :---         |     :---:      |          ---: |   
+|  -- | --   | [link]() |
+|  -- | --   | [link]() |
+|  -- | --   | [link]() |
 | | | 
 
 |  Android and Web applications| | | 
@@ -60,11 +60,11 @@ links to all my projects repo and code
 |  --   | -- | [link]() |  
 | | | 
 
-|  Reinforcemnet learning| | | |
-| :---         |     :---:      |          ---: |   ---: |
-|  BERT | paper  | code |summary |
-|  BioBERT | paper  | code |summary |
-|  ChexBERT | paper  | [code](https://github.com/Amritpal-001/Paper_Implementations/blob/master/NLP/ChexBert.ipynb) |summary |
+|  Reinforcemnet learning| | | 
+| :---         |     :---:      |          ---: |   
+|  -- | --   | [link]() |
+|  -- | --   | [link]() |
+|  -- | --   | [link]() |
 | | | |
 
 | Others| | |
