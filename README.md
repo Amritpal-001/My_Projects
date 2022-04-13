@@ -4,9 +4,7 @@ links to all my projects repo and code
 | Medical imaging| | | 
 | :---         |     :---:      |          ---: | 
 |  Retinopathy detection using mobile app  | Tensorflow AI models deployed on Kotlin based Android app|[link](https://github.com/Amritpal-001/Retinopathy_detection_Android_app) |  
-|  Skin lesion diagnosis with AI reasoning  | -- |[link](https://github.com/Amritpal-001/Skin_lesions_Classification) |  
-|  COVID detection using mobile app  | uses AI models to detect COVID-19 on CT scans in android apps |[link](https://github.com/Amritpal-001/Paper_Implementations/blob/master/Tranformers/Visual_transformer_quick_run.ipynb) |  
-|  Catheter classification and prognosis on chest xray  | detect type of catheter and is it in right position|[link](https://github.com/Amritpal-001/Retinopathy_detection_Android_app) |  
+|  Skin lesion diagnosis with AI reasoning  | -- |[link](https://github.com/Amritpal-001/Skin_lesions_Classification) |    
 |  Thyroid gland segmentation  | Detecting and labelling thyroid glands on ultrasound scans |[link](https://github.com/Amritpal-001/Image_Segmentation) |
 | | | 
 
