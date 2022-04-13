@@ -15,13 +15,6 @@ links to all my projects repo and code
 |  Patient monitoring using video camera  | monitors patient expression, track patient visits, raises alarms|[link](https://github.com/Amritpal-001/ICU_patient_monitoring) |  
 | | | 
 
-| Natural language processing| | | 
-| :---         |     :---:      |          ---: |   
-|  -- | --   | [link]() |
-|  -- | --   | [link]() |
-|  -- | --   | [link]() |
-| | | 
-
 |  Android and Web applications| | | 
 | :---         |     :---:      |          ---: | 
 |  Retinopathy detection using mobile camera  | Tensorflow AI models deployed on Kotlin based Android app|[link](https://github.com/Amritpal-001/Paper_Implementations/blob/master/Tranformers/Visual_transformer_quick_run.ipynb) |  
@@ -54,18 +47,6 @@ links to all my projects repo and code
 |    Pix2Pix | -- | [link](https://github.com/Amritpal-001/Generative-adversarial-networks-GANs) |
 | | | 
 
-
-| Recommendor systems| | | 
-| :---         |     :---:      |          ---: | 
-|  --   | -- | [link]() |  
-| | | 
-
-|  Reinforcemnet learning| | | 
-| :---         |     :---:      |          ---: |   
-|  -- | --   | [link]() |
-|  -- | --   | [link]() |
-|  -- | --   | [link]() |
-| | | |
 
 | Others| | |
 | :---         |     :---:      |          ---: | 
