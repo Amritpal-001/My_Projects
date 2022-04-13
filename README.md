@@ -13,14 +13,6 @@ links to all my projects repo and code
 |  Patient monitoring using video camera  | monitors patient expression, track patient visits, raises alarms|[link](https://github.com/Amritpal-001/ICU_patient_monitoring) |  
 | | | 
 
-|  Android and Web applications| | | 
-| :---         |     :---:      |          ---: | 
-|  Retinopathy detection using mobile camera  | Tensorflow AI models deployed on Kotlin based Android app|[link](https://github.com/Amritpal-001/Paper_Implementations/blob/master/Tranformers/Visual_transformer_quick_run.ipynb) |  
-|  Live Hand signs recognition in web app  | web app to identify live hhand signs|[link]() |
-|  MNIST_fashion - Draw and predict  | drawable pad that allows to detect MNIST  images|[link]() |
-|  Alphabet - Draw and predict  | drawable pad that allows to detect aplhabets, numbers|[link]() |  
-| | | 
-
 | AI Explainability | | | 
 | :---         |     :---:      |          ---: | 
 |  SmoothGrad implementation  | -- |[link](https://github.com/Amritpal-001/Explainable_AI) |  
