@@ -10,6 +10,16 @@ links to all my projects repo and code
 | | | 
 
 
+| Kaggle competitions| | | 
+| :---         |     :---:      |          ---: | 
+|  MLB_player_digital_engagement| predict player engagement|[link](https://github.com/Amritpal-001/Retinopathy_detection_Android_app) |  
+|  Optiver_realized_volatility_prediction  | predict volatility in stocks|[link](https://github.com/Amritpal-001/ICU_patient_monitoring) |    
+|  Ranzcr_catheter_detection |  detect position of medical catheters on images|[link](https://github.com/Amritpal-001/CovCT)|
+|  OSIC_pulmonary_fibrosis_progression  | progression of disease on CT scans|[link](https://github.com/Amritpal-001/ICU_patient_monitoring) |    
+|  Sartorius_cell_instance_segmentation |  Cell segmentation on histology images|[link](https://github.com/Amritpal-001/CovCT)|
+| | | 
+
+
 | Hackathon submissions| | | 
 | :---         |     :---:      |          ---: | 
 |  Drug repurposing - MIT Hack4Rare | Tensorflow AI models deployed on Kotlin based Android app|[link](https://github.com/Amritpal-001/Retinopathy_detection_Android_app) |  
@@ -20,12 +30,12 @@ links to all my projects repo and code
 
 | AI Explainability | | | 
 | :---         |     :---:      |          ---: | 
+|  Aequitas implementation |Fairness and Bias detection  |[link](https://github.com/Amritpal-001/Explainable_AI) |  
 |  SmoothGrad implementation  | -- |[link](https://github.com/Amritpal-001/Explainable_AI) |  
 |  BackGRad implementation  | -- |[link](https://github.com/Amritpal-001/Explainable_AI) |  
 |  GradCam implementation  | -- |[link](https://github.com/Amritpal-001/Explainable_AI) |  
 |  Saliency maps implementation  | -- |[link](https://github.com/Amritpal-001/Explainable_AI) |  
 |  SHAP values implementation  | -- |[link](https://github.com/Amritpal-001/Explainable_AI) |  
-|  Aequitas implementation |Fairness and Bias detection  |[link](https://github.com/Amritpal-001/Explainable_AI) |  
 | | | 
 
 
